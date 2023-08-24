@@ -149,6 +149,9 @@
     width: 600px;
     height: 100%;
     background-color: #ecf0f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .banner-right img{
