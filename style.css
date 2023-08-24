@@ -74,3 +74,36 @@
 }
 
 /* ---------------------------------------------------------------------------------- */
+
+/* animation */
+
+.nav-right a::before, 
+.nav-right a::after{
+     content: "";
+     position: absolute;/* can change easily */
+     bottom: 0;
+     width: 0;/*  default 0 */
+     height: 2px;
+     background-color: red;
+     transition: width 0.5s ease-in-out;
+}
+
+.nav-right a::before{
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nav-right a::after{
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.nav-right a:hover:before, 
+.nav-right a:hover:after{
+     width: 50%;
+}
+
+/* ---------------------------------------------------------------------------------- */
+
+/* ---------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------- */
