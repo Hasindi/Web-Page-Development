@@ -271,6 +271,11 @@
     border-top-right-radius: 6px;
 }
 
+/* animate */
+.gallery-inner-top img:hover{
+    transform: scale(1.2);
+}
+
 
 
 /* ---------------------------------------------------------------------------------- */
