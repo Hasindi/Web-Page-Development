@@ -146,9 +146,13 @@
 }
 
 .banner-right{
-    width: 500px;
+    width: 600px;
     height: 100%;
     background-color: #ecf0f1;
+}
+
+.banner-right img{
+    width: 90%;
 }
 
 
