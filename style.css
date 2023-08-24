@@ -29,12 +29,11 @@
     width: 100%;
     height: 60px;
     display: flex;
-    border-bottom: 1px solid #bdc3c7; 
+    border-bottom: 1px solid #aab2b7; 
 }
 
 .nav-inner{
     height: 100%;
-    border: 1px solid red;
 }
 
 .nav-left{
