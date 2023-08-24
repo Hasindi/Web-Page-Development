@@ -143,6 +143,7 @@
 .banner-left{
     flex: 1;
     border: 1px solid red;
+    display: flex;
 }
 
 .banner-right{
