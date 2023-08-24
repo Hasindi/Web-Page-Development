@@ -64,6 +64,7 @@
 .nav-right ul li a{
     font-style: italic;
     color: black;
+    text-decoration: none;
 }
 
 /* ---------------------------------------------------------------------------------- */
