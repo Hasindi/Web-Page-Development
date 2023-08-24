@@ -207,6 +207,12 @@
 .works-content-inner{
     height: 300px;
     border: inherit;
+    display: flex;
+}
+
+.content{
+    flex: 1;
+    border: inherit;
 }
 
 /* ---------------------------------------------------------------------------------- */
