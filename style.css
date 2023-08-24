@@ -261,6 +261,7 @@
     width: 100%;
     height: 250px;
     background-color: #aab2b7;
+    overflow: hidden;
 }
 
 
