@@ -119,11 +119,14 @@
     color: white;
 }
 
-.login-btn, .login-git-btn{
+.login-btn{
      margin: 0 20px;
      padding: 6px 15px;
      background-color: #1C2022;
-     color: white;
+}
+
+.btn{
+    color: white;
      border: none;
      border-radius: 50px;
      cursor: pointer;
