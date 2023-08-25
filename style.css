@@ -263,6 +263,7 @@
     background-color: #aab2b7;
     overflow: hidden;
     position: relative;
+    border-radius: 6px;
 }
 
 
@@ -281,7 +282,6 @@
     border-radius: 20px;
     top: 10px;
     right: 10px;
-    
 }
 
 /* animation */
